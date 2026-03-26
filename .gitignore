@@ -1,0 +1,6 @@
+tips.md
+/.claude
+
+# Local assets — all hosted on GitHub CDN (user-attachments)
+projects/
+documentation/**/*.png
