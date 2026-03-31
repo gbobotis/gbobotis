@@ -1,4 +1,4 @@
-LLMs didn't exist when I graduaded. Right now I'm having an existential crisis fueled by my denial of any desire to code completely manually in this era. So I've shifted my focus to deeply understand underlying principles and systems architecture in depth.
+LLMs changed the leverage equation for engineering. My response has been to invest in what stays constant: systems architecture, security primitives, and the kind of deep understanding that makes any tool — including AI — actually useful.
 
 
 ## The Map
